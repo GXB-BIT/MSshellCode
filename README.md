@@ -1,0 +1,2 @@
+# MSshellCode
+将你提供的shellcode进行免杀生成exe文件
